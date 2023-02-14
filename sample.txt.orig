@@ -1,0 +1,18 @@
+1st line
+2nd line
+3rd line
+4th line
+5th line
+6th line
+7th line
+8th line
+This is changes from feature-2 branch
+This is changes from develop branch
+<<<<<<< HEAD
+This 2nd change from feature-2 
+This is changes from develop branch
+=======
+This 2nd change from feature-2
+This is changes from feature-3 branch
+ 
+>>>>>>> feature-3
